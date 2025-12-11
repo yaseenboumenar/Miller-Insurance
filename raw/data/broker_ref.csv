@@ -1,0 +1,6 @@
+broker_code,broker_name,office,region,country,active_from,active_to
+BRK001,Alpha Specialty Brokers,London Market,UK & Europe,UK,2019-01-01,
+BRK002,Global Risk Partners,Bermuda Hub,Bermuda & North America,Bermuda,2020-06-01,
+BRK003,Continental Re Partners,Paris Office,Europe,France,2021-03-15,
+BRK004,AsiaRisk Solutions,Singapore Office,Asia Pacific,Singapore,2018-09-01,
+BRK005,Miller Internal Broking,London Market,UK & Europe,UK,2015-01-01,
