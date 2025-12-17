@@ -1,7 +1,7 @@
-claim_id,policy_id,loss_date,reported_date,claim_status,paid_amount,outstanding_reserve,currency,cause_of_loss,claim_handler
-C000001,P000001,2024-11-10,2024-11-12,OPEN,25000.00,75000.00,GBP,Fire,Alex Adjuster
-C000002,P000001,2024-12-05,2024-12-06,CLOSED,40000.00,0.00,GBP,Water Damage,Alex Adjuster
-C000003,P000002,2025-02-20,2025-02-22,OPEN,10000.00,50000.00,GBP,Bodily Injury,Sarah Claims
-C000004,P000003,2024-08-15,2024-08-20,OPEN,150000.00,250000.00,USD,Grounding,Mark Marine
-C000005,P000004,2025-03-01,2025-03-05,OPEN,0.00,90000.00,EUR,Storm,Elise Adjuster
-C000006,P000005,2024-05-10,2024-05-11,DENIED,0.00,0.00,GBP,Coverage Dispute,Sarah Claims
+claim_code,policy_code,incident_date,reported_date,claim_status,paid_amount,outstanding_reserve,currency,cause_of_loss,claim_handler
+C000001,P000001,2024-11-10,2024-11-12,OPEN,25000.00,75000.00,GBP,Fire,Alex Jones
+C000002,P000001,2024-12-05,2024-12-06,CLOSED,40000.00,0.00,GBP,Water Damage,Alex Jones
+C000003,P000002,2025-02-20,2025-02-22,OPEN,10000.00,50000.00,GBP,Bodily Injury,Sarah Johnson
+C000004,P000003,2024-08-15,2024-08-20,OPEN,150000.00,250000.00,USD,Collision,Mark Marine
+C000005,P000004,2025-03-01,2025-03-05,OPEN,0.00,90000.00,EUR,Storm,Elise Anderson
+C000006,P000005,2024-05-10,2024-05-11,DENIED,0.00,0.00,GBP,Coverage Dispute,Sarah Johnson

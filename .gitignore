@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs (if you create one later)
+.venv/
+venv/
+env/
+
+# --- Airflow runtime stuff ---
+airflow/logs/
+airflow/dags/__pycache__/
+airflow/dags/*.log
+
+# --- OS / editor noise ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Secrets ---
+.env
+.env.*

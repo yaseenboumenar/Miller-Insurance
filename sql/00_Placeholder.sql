@@ -1,1 +1,0 @@
--- Snowflake schema and table creation scripts
